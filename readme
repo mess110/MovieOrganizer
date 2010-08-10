@@ -1,0 +1,10 @@
+Organize movies (MOD format) from my dad's Panasonic SDR-H40 camcorder into several DVD sized folders. Since I don't know how to burn a DVD in Java, I am using a special program to burn DVDs with the help of Java Robot.
+
+Initially intended to be crossplatform, it became Windows only because of the DVD burner.
+
+Free Easy CD DVD burner V4.0 by Koyotesoft
+http://www.koyotesoft.com/
+
+The program gets the buttons it needs to press and uses Java Robot to control the mouse.
+
+Renames MOD files to a format supported by my dads LD DVD player.
